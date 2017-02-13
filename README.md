@@ -16,7 +16,7 @@ Ludus is an open source handheld game system based on Raspberry Pi and the offic
 * [Speakers](https://www.adafruit.com/products/1890) x2
 * [Digital audio amplifier](https://www.adafruit.com/product/3006)
 * [3000 Lipo Battery](http://www.exp-tech.de/en/polymer-lithium-ion-battery-3000mah?___from_store=de) x2
-[* Adafruit Powerboost 1000C](https://www.adafruit.com/products/2465)
+* [Adafruit Powerboost 1000C](https://www.adafruit.com/products/2465)
 *  M3x20 to m3x24 screws x4
 
 # Links
